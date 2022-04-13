@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="/">
+		<file alias="main.qml">contents/ui/main.qml</file>
+		<file alias="BallEntryCard.qml">contents/ui/BallEntryCard.qml</file>
+		<file alias="RandomBallsPage.qml">contents/ui/RandomBallsPage.qml</file>
+		<file alias="RandomBallsPageAddOverlaySheet.qml">contents/ui/RandomBallsPageAddOverlaySheet.qml</file>
+		<file alias="RandomBallsPageDrawModal.qml">contents/ui/RandomBallsPageDrawModal.qml</file>
+	</qresource>
+</RCC>
